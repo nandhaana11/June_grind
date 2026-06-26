@@ -29,5 +29,4 @@ void display(String name,[int? age]){
     print("name is $name");
     print("age is $age");
   }
-  void setTheme
 }
